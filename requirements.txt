@@ -5,6 +5,7 @@ hachoir
 numpy
 Pillow
 asynczip
+pyrogram
 requests
 tgcrypto
 #youtube-dl
